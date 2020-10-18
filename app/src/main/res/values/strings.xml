@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">For You</string>
+    <string name="home_halo">Halo %s</string>
+    <string name="home_ada_pertanyaan">Aku ada pertanyaan buat kamu</string>
+    <string name="home_btn_ok">Ok</string>
+    <string name="home_btn_yes">YA</string>
+    <string name="home_btn_no">Tidak</string>
+    <string name="home_text_dialog_3">Tapi nanti harus di jawab jujur yaah</string>
+    <string name="home_text_dialog_4">Jangan Bohong</string>
+    <string name="home_text_dialog_5">Udah siap ?</string>
+    <string name="home_text_dialog_6">Jangan jawab NO yah</string>
+    <string name="home_text_dialog_7_child_yes">Sama aku juga pengen ketemu :)</string>
+    <string name="home_text_dialog_7_yes">Pake banget gk nih, wkwk</string>
+    <string name="home_text_dialog_8">Oiyaa, aku juga mau bilang sesuatu nih</string>
+    <string name="home_text_dialog_9">Sejujurnya aku suka sama kamu</string>
+    <string name="home_text_dialog_10">Kamu gitu juga gak ?</string>
+    <string name="home_text_dialog_1_yes">Uwuuu, Kalo gitu coba deh kamu klik titik warna pink di atas</string>
+    <string name="home_text_dialog_cant_answer_no">Ingat, gak boleh di jawab NO yah :D</string>
+    <string name="home_text_mean_here_1">ehh maksudnya disini</string>
+    <string name="home_text_mean_here_2">Eeh disini aja deh :D</string>
+    <string name="home_text_quotes_end">%s, Sudah sejauh ini kita saling kenal. Awalnya aku ingin menjaga hati aku dulu dari yang namanya perasaan jatuh cinta. Dan aku kalah. Aku sadar cinta itu gak bisa di paksakan dan cinta itu bisa datang kapan saja. Kita tak bisa menolak akan hal itu bukan. Jujur aku suka sama kamu tapi aku juga gak mau kita menjalin hubungan yang dilarang Allah, Aku hanya bisa berdo\'a dan berharap semoga kita di pertemukan di kesempatan yang baik menurut Allah.\n Aamiin&#8230;</string>
+    <string name="home_btn_try_click">Coba klik deh!</string>
+</resources>
